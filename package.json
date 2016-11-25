@@ -1,0 +1,21 @@
+{
+  "name": "cmacc-lib-entity",
+  "version": "1.0.0",
+  "description": "Cmacc Entity",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilmveel/cmacc-lib-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilmveel/cmacc-lib-form/issues"
+  },
+  "homepage": "https://github.com/wilmveel/cmacc-lib-form#readme",
+  "cmacc": {
+    "alias": "entity"
+  }
+}
